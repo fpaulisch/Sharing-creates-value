@@ -2,7 +2,7 @@
 * October '23
   * Marcel Kurzmann
 * November '23
-  * tbd
+  * Frances Paulisch
 * December '23
   * tbd
 * January '24
